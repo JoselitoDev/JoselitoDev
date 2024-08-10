@@ -24,8 +24,9 @@
   <a href = "mailto:aponzacantoni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ivan-camilo-aponza-ab985a23b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-[![Gmail JoseloDev](https://img.shields.io/badge/Gmail-aponzacantoni%40gmail.com-success)](mailto:aponzacantoni@gmail.com)
-[![Youtube JoseloDev](https://img.shields.io/badge/Youtube-Ivan%20Aponza-red)](https://www.youtube.com/channel/UC7oUiMViy0ntxeuhrt7ivaQ)
+[![Gmail JoselitoDev](https://img.shields.io/badge/Gmail-aponzacantoni%40gmail.com-success)](mailto:aponzacantoni@gmail.com)
+[![Youtube JoselitoDev](https://img.shields.io/badge/Youtube-Ivan%20Aponza-red)](https://www.youtube.com/channel/UC7oUiMViy0ntxeuhrt7ivaQ)
+[![Linkedin: JoselitoDev](https://img.shields.io/badge/-JoselitoDev-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-camilo-aponza-ab985a23b)](https://www.linkedin.com/in/ivan-camilo-aponza-ab985a23b)
    
  <img align="right" src="https://komarev.com/ghpvc/?username=JoselitoDev&label=Profile%20views&color=0e75b6&style=flat" alt="JoselitoDev" />
    
