@@ -20,9 +20,6 @@
   ##
  
 <p> 
-  <a href="https://www.youtube.com/channel/UC7oUiMViy0ntxeuhrt7ivaQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:aponzacantoni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ivan-camilo-aponza-ab985a23b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 [![Gmail JoselitoDev](https://img.shields.io/badge/Gmail-aponzacantoni%40gmail.com-success)](mailto:aponzacantoni@gmail.com)
 [![Youtube JoselitoDev](https://img.shields.io/badge/Youtube-JoselitoDev%20-red)](https://www.youtube.com/channel/UC7oUiMViy0ntxeuhrt7ivaQ)
