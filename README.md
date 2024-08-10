@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/ivan-camilo-aponza-ab985a23b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 [![Gmail JoseloDev](https://img.shields.io/badge/Gmail-aponzacantoni%40gmail.com-success)](mailto:aponzacantoni@gmail.com)
-[![Youtube JoseloDev](https://img.shields.io/badge/Youtube-Albert%20Hernandez-red)](https://www.youtube.com/channel/UC7oUiMViy0ntxeuhrt7ivaQ)
+[![Youtube JoseloDev](https://img.shields.io/badge/Youtube-Joselito%20Dev-red)](https://www.youtube.com/channel/UC7oUiMViy0ntxeuhrt7ivaQ)
    
  <img align="right" src="https://komarev.com/ghpvc/?username=JoselitoDev&label=Profile%20views&color=0e75b6&style=flat" alt="JoselitoDev" />
    
